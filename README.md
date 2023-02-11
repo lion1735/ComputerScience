@@ -23,3 +23,5 @@ Container | 하나의 호스트 OS에서 멀티 OS 환경을 구현
 Authentication | 인증,  웹사이트에서 로그인하는 것
 Authorization | 인가, 권한 부여를 통해 로그인 상태의 사용자만 사용할 수 있는 기능
 
+JAVA8 | 인터페이스에 디폴트 메소드와 정적 메소드 추가, Optional 지원, 병렬 처리, 날짜 관련 라이브러리, 스트림 API
+JAVA11 | SPring 메소드 추가, 람다에서 로컬변수 Var 사용, 자바 파일 실행 방식 단순화
